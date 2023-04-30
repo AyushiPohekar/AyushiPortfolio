@@ -40,7 +40,7 @@ const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper">
         <div className="c-left">
-          <h1 className="c-title">Let's discuss your project</h1>
+          <h1 className="c-title">Contact Me</h1>
           <div className="c-info">
             <div className="c-info-item">
               <img
@@ -70,7 +70,7 @@ const Contact = () => {
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>Contact Me</b>
+            <b>Get in Touch!</b>
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input

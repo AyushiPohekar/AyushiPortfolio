@@ -1,6 +1,7 @@
 .c {
     height: 100vh;
     position: relative;
+    margin-top: 3rem;
   }
   
   .c-bg {
@@ -28,8 +29,11 @@
   }
   
   .c-title {
-    font-size: 60px;
+    
     width: 80%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
   }
   
   .c-info-item {
@@ -47,7 +51,10 @@
   }
   
   .c-desc {
-    font-weight: 200;
+    width: 50%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
   }
   
   form {
@@ -55,7 +62,7 @@
   }
   
   input {
-    width: 50%;
+    width: 60%;
     height: 50px;
     border: none;
     border-bottom: 1px solid black;
@@ -73,11 +80,12 @@
   
   button {
     border: none;
-    padding: 15px;
+    padding: 8px 15px;
     background-color: #59b256;
     color: white;
     font-weight: 500;
     cursor: pointer;
+    border-radius: 5px;
   }
   
   @media screen and (max-width: 480px) {

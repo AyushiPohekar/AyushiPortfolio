@@ -89,10 +89,19 @@ export const products = [
     {
       id: 4,
       img: "/images/DrumKit.jpg",
-      title:"Admin Dashboard",
+      title:"Drum Kit",
       description:"A HTML,JavaScript,CSS based Drum-Kit",
       demo: "https://wondrous-wisp-7deaac.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/admin-dashboard"
+  
+    },
+    {
+      id: 4,
+      img: "/images/usercrud.jpg",
+      title:"React Crud",
+      description:"A React CRUD app with beautiful UI.",
+      demo: "https://cerulean-croissant-bc6d4a.netlify.app/users",
+      frontendlink:"https://github.com/AyushiPohekar/UserCRUD"
   
     },
   ]
