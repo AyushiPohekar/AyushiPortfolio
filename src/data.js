@@ -19,15 +19,15 @@ export const products = [
       frontendlink:"https://github.com/AyushiPohekar/blogapp_frontend",
       backendlink:"https://github.com/AyushiPohekar/BlogApp-Backend"
     },
-    // {
-    //   id: 1,
-    //   img: "",
-    //   title:"",
-    //   description:"",
-    //   demo: "",
-    //   frontendlink:"",
-    //   backendlink:""
-    // },
+    {
+      id: 3,
+      img: "/images/hotelbooking.jpg",
+      title:"Hotel Booking",
+      description:"A MERN stack Hotel booking App,with room reservations.",
+      demo: "https://644ed16b252c970d2a67d0df--sunny-valkyrie-97cf4e.netlify.app/",
+      frontendlink:"",
+      backendlink:""
+    },
     // {
     //   id: 1,
     //   img: "",
