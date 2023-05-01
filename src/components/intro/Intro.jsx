@@ -41,8 +41,14 @@ const Intro = () => {
           </div>
           <p className="i-desc">I design and develop websites</p>
           <div>
-            <button className="i-btn">Resume</button>
-           </div>
+            <a
+              className="i-btn"
+              href="https://drive.google.com/file/d/16Z0Mx6B-yC_YN9o_MnEBw5vAULIGNP5v/view?usp=sharing"
+              target="_blank"
+            >
+              Resume
+            </a>
+          </div>
         </div>
       </div>
       <div className="i-right">
