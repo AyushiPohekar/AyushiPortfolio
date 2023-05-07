@@ -10,7 +10,7 @@ const ProductList = () => {
   return (
     <div className="pl" id='project'>
     <div className="pl-texts">
-      <h1 className="pl-title">Create & inspire</h1>
+      <h1 className="pl-title">Create & Inspire</h1>
     
     </div>
     <div className="pl-list">
