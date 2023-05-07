@@ -48,7 +48,7 @@ const Contact = () => {
                 alt=""
                 className="c-icon"
               />
-              9131272889
+              +919131272889
             </div>
             <div className="c-info-item">
               <img
