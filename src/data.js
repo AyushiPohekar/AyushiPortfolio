@@ -15,7 +15,7 @@ export const products = [
       img: "/images/blogapp.jpg",
       title:"Travel-Diaries",
       description:"A MERN Stack app that permits user to create,edit,delete the posts.Every user or non users can view all posts.",
-      demo: "https://644db7da252c9771f367cff0--splendorous-donut-e614e2.netlify.app/",
+      demo: "https://645553c7c418ba0008b2f368--incredible-flan-176b4d.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/blogapp_frontend",
       backendlink:"https://github.com/AyushiPohekar/BlogApp-Backend"
     },
@@ -24,7 +24,7 @@ export const products = [
       img: "/images/hotelbooking.jpg",
       title:"Hotel Booking",
       description:"A MERN stack Hotel booking App,with room reservations.",
-      demo: "https://644ed16b252c970d2a67d0df--sunny-valkyrie-97cf4e.netlify.app/",
+      demo: "https://64556485fb0f680008de2efa--stunning-caramel-832177.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/booking-app",
       backendlink:"https://github.com/AyushiPohekar/bookingapp-backend"
     },
@@ -33,28 +33,11 @@ export const products = [
       img: "/images/Ecommerce.jpg",
       title:"Ecommerce App",
       description:"A MERN stack based Ecommerce App with Admin access and payment intregation.",
-      demo: "https://644f1422cbc6c433b71d0f6a--serene-tapioca-cddc8b.netlify.app/",
+      demo: "https://64555c35eec0f60008e45de4--astonishing-chimera-018646.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/EcommerceFrontend",
       backendlink:"https://github.com/AyushiPohekar/EcommerceBackend"
     },
-    // {
-    //   id: 1,
-    //   img: "",
-    //   title:"",
-    //   description:"",
-    //   demo: "",
-    //   frontendlink:"",
-    //   backendlink:""
-    // },
-    // {
-    //   id: 1,
-    //   img: "",
-    //   title:"",
-    //   description:"",
-    //   demo: "",
-    //   frontendlink:"",
-    //   backendlink:""
-    // },
+    
    
   ];
 
