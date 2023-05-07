@@ -33,7 +33,7 @@ export const products = [
       img: "/images/Ecommerce.jpg",
       title:"Ecommerce App",
       description:"A MERN stack based Ecommerce App with Admin access and payment intregation.",
-      demo: "https://64555c35eec0f60008e45de4--astonishing-chimera-018646.netlify.app/",
+      demo: "https://64582d7a2cf47e0008e6cac4--astonishing-chimera-018646.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/EcommerceFrontend",
       backendlink:"https://github.com/AyushiPohekar/EcommerceBackend"
     },
@@ -74,7 +74,7 @@ export const products = [
       img: "/images/DrumKit.jpg",
       title:"Drum Kit",
       description:"A HTML,JavaScript,CSS based Drum-Kit",
-      demo: "https://wondrous-wisp-7deaac.netlify.app/",
+      demo: "https://luxury-nougat-fa2e55.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/admin-dashboard"
   
     },
