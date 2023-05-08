@@ -15,7 +15,7 @@ export const products = [
       img: "/images/blogapp.jpg",
       title:"Travel-Diaries",
       description:"A MERN Stack app that permits user to create,edit,delete the posts.Every user or non users can view all posts.",
-      demo: "https://645553c7c418ba0008b2f368--incredible-flan-176b4d.netlify.app/",
+      demo: "https://64583dc68d549b0008b1c42d--splendorous-donut-e614e2.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/blogapp_frontend",
       backendlink:"https://github.com/AyushiPohekar/BlogApp-Backend"
     },
