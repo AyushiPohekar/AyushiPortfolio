@@ -87,4 +87,13 @@ export const products = [
       frontendlink:"https://github.com/AyushiPohekar/UserCRUD"
   
     },
+    {
+      id: 5,
+      img: "/images/Cropit.jpg",
+      title:"CropIT",
+      description:"A HTML,CSS,Javascript based webpage which allows the user to upload any image.The user can then crop,flip,rotate the image and apply frame like circle,square,rectangle or heart.",
+      demo: "https://relaxed-klepon-76d1f6.netlify.app/",
+      frontendlink:"https://github.com/AyushiPohekar/Celebrate2"
+  
+    },
   ]
