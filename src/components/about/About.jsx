@@ -17,14 +17,13 @@ const About = () => {
         <h2 className="a-title">About Me</h2>
 
         <div className="a-desc">
-          As a dedicated MERN Stack Developer, I have excelled in
+          A dedicated MERN Stack Developer, with proven expertise in
           problem-solving, crafting unique and user-friendly UI designs, and
           building robust backends. Proficient in MongoDB, ExpressJS, ReactJS,
-          and NodeJS, I am actively seeking job opportunities to apply and
-          enhance these skills. With a strong work ethic, a proven academic
+          and NodeJS. I am actively seeking job opportunities as a React Developer/
+          MERN stack developer/ Frontend Developer. With a strong work ethic, a proven academic
           record, and a commitment to continuous learning, I am eager to
-          contribute value to a forward-thinking company and further expand my
-          skillset.
+          contribute value to a the company I am employed with.
         </div>
       </div>
     </div>
