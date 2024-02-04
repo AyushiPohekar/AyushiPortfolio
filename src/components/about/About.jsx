@@ -17,17 +17,14 @@ const About = () => {
         <h2 className="a-title">About Me</h2>
 
         <div className="a-desc">
-          I am an Electrical Engineer by education who wants to change her
-          career profile and hence started exploring the fascinating world of
-          Web development since May 2022. I have enjoyed working on projects
-          that involve problem solving; creating attractive, unique,
-          user-friendly and dynamic UI designs; and supporting it with a strong
-          backend. I have build skills in MERN stack i.e. MongoDB, ExpressJS,
-          ReactJS, NodeJS and currently I'm looking for job/internship
-          opportunities where I could apply those skills. I am a hard-working
-          individual with a consistently good academic record and I'd strive
-          hard to add value to the company I'm employed with and to continuously
-          expand my skillset.
+          As a dedicated MERN Stack Developer, I have excelled in
+          problem-solving, crafting unique and user-friendly UI designs, and
+          building robust backends. Proficient in MongoDB, ExpressJS, ReactJS,
+          and NodeJS, I am actively seeking job opportunities to apply and
+          enhance these skills. With a strong work ethic, a proven academic
+          record, and a commitment to continuous learning, I am eager to
+          contribute value to a forward-thinking company and further expand my
+          skillset.
         </div>
       </div>
     </div>
